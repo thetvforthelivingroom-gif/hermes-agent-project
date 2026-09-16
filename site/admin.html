@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Admin Dashboard – Story Stages</title>
+<style>
+body {font-family:Arial, sans-serif; margin:20px;}
+h1 {margin-bottom:20px;}
+.story {border:1px solid #ddd; padding:10px; margin-bottom:10px; border-radius:4px; display:flex; justify-content:space-between; align-items:center;}
+.badge {padding:3px 8px; border-radius:4px; font-size:0.9em; color:#fff;}
+.todo {background:#6c757d;}
+.researching {background:#17a2b8;}
+.editing {background:#ffc107; color:#212529;}
+.reviewing {background:#fd7e14;}
+.completed {background:#28a745;}
+.refresh {margin-top:10px; font-size:0.9em; color:#555;}
+</style>
+</head>
+<body>
+<h1>Story Status Dashboard</h1>
+<div id="stories"></div>
+<div class="refresh" id="last-refresh"></div>
+<script>
+const API_URL = '/api/stories/status';
+let refreshTimer = null;
+function fetchStories(){
+  fetch(API_URL)
+    .then(r=>r.json())
+    .then(data=>{ renderStories(data.stories); updateTimestamp(); })
+    .catch(err=>console.error('Failed to fetch story status', err));
+}
+function renderStories(list){
+  const container = document.getElementById('stories');
+  container.innerHTML='';
+  list.forEach(story=>{
+    const div = document.createElement('div');
+    div.className='story';
+    const title = document.createElement('div');
+    const link = document.createElement('a');
+    link.href = story.url || '#';
+    link.textContent = story.title || `Story ${story.id}`;
+    title.appendChild(link);
+    const badge = document.createElement('span');
+    badge.className='badge '+(story.stage||'todo');
+    badge.textContent = story.stage || 'todo';
+    div.appendChild(title);
+    div.appendChild(badge);
+    container.appendChild(div);
+  });
+}
+function updateTimestamp(){
+  const el = document.getElementById('last-refresh');
+  const now = new Date();
+  el.textContent = 'Last refreshed: '+now.toLocaleTimeString();
+}
+// Initial load
+fetchStories();
+// Auto‑refresh every 12 minutes (720,000 ms)
+if(refreshTimer) clearInterval(refreshTimer);
+refreshTimer = setInterval(fetchStories, 720000);
+</script>
+</body>
+</html>

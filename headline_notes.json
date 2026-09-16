@@ -1,0 +1,45 @@
+{
+  "Supreme Court rejects Trump’s mail ballot restrictions for midterm elections": {
+    "summary": "The U.S. Supreme Court declined to let the Postal Service enforce Trump’s mail‑ballot restriction rule, preserving the status quo for mail voting ahead of the November midterms. The decision was a defeat for the administration’s effort to tighten ballot handling and was welcomed by civil‑rights groups.",
+    "citations": [
+      "https://www.theguardian.com/us-news/2026/sep/14/supreme-court-rejects-mail-ballot-restrictions",
+      "https://www.pbs.org/newshour/politics/supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms"
+    ]
+  },
+  "AI‑linked stocks slide after tech bosses call for slowdown in ‘reckless’ development": {
+    "summary": "Shares of AI‑linked companies including Nvidia, AMD, Micron and SoftBank fell after CEOs of Anthropic, OpenAI and SpaceX urged a slowdown in AI development, citing safety concerns. President Trump dismissed the calls as a “sick conspiracy”.",
+    "citations": ["https://inkl.com/news/ai-linked-stocks-fall-after-tech-bosses-call-for-slowdown-in-reckless-development"]
+  },
+  "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall": {
+    "summary": "Iran‑aligned Houthis launched missile and drone attacks on a Saudi airbase in Khamis Mushait, wounding civilians and raising concerns about oil‑shipping security as Gulf states postpone Iran talks. The attacks come amid broader Houthi pressure on Saudi oil exports.",
+    "citations": ["https://duke.fm/2026/09/14/houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall"]
+  },
+  "Saudi pipeline outage threatens loss of 4% of global oil supply": {
+    "summary": "A damage‑induced shutdown of Saudi Arabia’s east‑west pipeline to the Red Sea threatens to cut up to 4 % of global oil supply, with exporters facing only a few days of stockpiles. Repairs could take five to six weeks, heightening oil‑price volatility.",
+    "citations": ["https://www.straitstimes.com/world/middle-east/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply"]
+  },
+  "US Supreme Court blocks Trump’s plan to restrict mail‑in ballots": {
+    "summary": "The Supreme Court refused to allow the Postal Service to enforce a rule that would have restricted mail‑in ballots, keeping current ballot‑mail processes untouched for the upcoming midterm election. The ruling was described as a major victory for voting‑rights groups.",
+    "citations": ["https://www.theguardian.com/us-news/2026/sep/14/supreme-court-rejects-mail-ballot-restrictions"]
+  },
+  "Trump says AI safety fears are a ‘hoax’": {
+    "summary": "President Trump posted on social media that AI safety concerns are a hoax and claimed he, as a “strong and smart” president, is the only safeguard needed, dismissing calls for regulation from tech leaders.",
+    "citations": ["https://japantoday.com/category/technology/trump-dismisses-new-ai-guardrails-says-there-is-a-%E2%80%98hoax%E2%80%99"]
+  },
+  "US lacks funding to complete first phase of air‑traffic control reforms": {
+    "summary": "The FAA needs additional congressional funding to finish phase 1 of a $10.6 billion ATC modernization plan, with a $574 million shortfall identified by a GAO report. The agency has also underestimated operating costs for the new system.",
+    "citations": ["https://www.marketscreener.com/news/us-lacks-funding-to-complete-first-phase-of-air-traffic-control-reforms-report-finds-ce785bdcde88f020"]
+  },
+  "China tightens travel rules over tech security": {
+    "summary": "China imposed new travel restrictions aimed at protecting national security, affecting foreign and Taiwanese nationals and tightening visa controls for technology‑related travel. The measures reflect Beijing’s growing concern over tech espionage.",
+    "citations": ["https://www.dw.com/en/china-tightens-travel-rules-over-tech-security/a-79270217"]
+  },
+  "India inflation rises to 4.82% in August, strengthening case for rate hike": {
+    "summary": "India’s consumer‑price inflation climbed to 4.82 % in August, slightly above forecasts, driven by food price pressures. The rise adds pressure on the Reserve Bank of India to consider a rate hike.",
+    "citations": ["https://wol.com/indias-inflation-rises-to-4-82-in-august-just-above-forecasts"]
+  },
+  "US Supreme Court rejects Trump’s mail ballot restrictions ahead of midterms": {
+    "summary": "In a brief order, the Supreme Court denied the Trump administration’s request to let the USPS enforce new mail‑ballot restrictions, leaving existing voting‑by‑mail procedures untouched for the midterms. The decision was praised by voting‑rights advocates.",
+    "citations": ["https://www.pbs.org/newshour/politics/supreme-court-rejects-trump-mail-ballot-restrictions-ahead-of-midterms"]
+  }
+}

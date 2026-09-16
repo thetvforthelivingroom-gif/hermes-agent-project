@@ -1,0 +1,7 @@
+# India inflation rises to 4.82% in August, strengthening case for rate hike
+
+India’s annual retail inflation edged up to 4.82% in August, up from 4.45% in July, surpassing the Reserve Bank of India’s 4% medium‑term target for a third straight month. The rise was driven largely by food prices, with the Consumer Food Price Index climbing to 5.95% as onion, garlic and ginger saw sharp price spikes. Transport inflation also accelerated to 4.60% after global oil prices surged, pushing the overall CPI higher. Analysts see the data as bolstering expectations of a rate‑hike in the RBI’s October monetary‑policy meeting, with many market participants pricing in a 25‑basis‑point increase. The central bank kept its benchmark repo rate unchanged at 5.25% in September but signalled that further tightening could be on the agenda if inflation spreads across sectors. The higher inflation reading underscores the impact of rising global oil prices— Brent crude futures were hovering near $108 a barrel—on the Indian economy. Policymakers will need to balance growth concerns with price stability as the country navigates external pressures from energy markets and domestic food‑price volatility.
+
+**Citations**
+- https://www.hindustantimes.com/business/retail-inflation-rises-to-4-82-in-august-from-4-45-in-july-shows-govt-data-101789383516104.html
+- https://livemint.com/economy/india-inflation-rate-in-august-rbi-repo-rate-india-gdp-growth-rate-11789388552218.html
