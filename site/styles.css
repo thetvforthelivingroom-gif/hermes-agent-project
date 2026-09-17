@@ -1,0 +1,43 @@
+body {background:#f7f5f0;color:#16181d;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.55}
+.wrap {max-width:960px;margin:0 auto;padding:0 18px}
+header.site {border-bottom:1px solid #e3ded3;padding:22px 0 18px;margin-bottom:8px}
+.brand {display:flex;align-items:baseline;gap:14px;flex-wrap:wrap}
+.brand h1 {font-family:Georgia,"Times New Roman",serif;font-size:26px;margin:0;letter-spacing:-0.2px}
+.brand .tag {color:#5b626e;font-size:13px}
+.hero {margin:22px 0 6px}
+.hero h2 {font-family:Georgia,serif;font-size:20px;font-weight:600;margin:0 0 4px}
+.hero p {color:#5b626e;margin:0;font-size:14px}
+.grid {display:grid;grid-template-columns:1fr;gap:16px;margin:22px 0 40px}
+@media (min-width:620px) {.grid {grid-template-columns:repeat(2,1fr)}}
+.card {background:#fff;border:1px solid #e3ded3;border-radius:12px;overflow:hidden;display:flex;flex-direction:column;text-decoration:none;color:inherit;transition:transform .12s ease,box-shadow .12s ease}
+.card:hover {transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.08)}
+.card .media {height:150px;background:#22334d;background-image:linear-gradient(135deg,#3a5a8c,#1c2739);background-size:cover;background-position:center}
+.card img {width:100%;height:150px;object-fit:cover;display:block}
+.card .body {padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1}
+.kicker {font-size:11px;letter-spacing:.8px;text-transform:uppercase;color:#b3402a;font-weight:700}
+.card h3 {font-family:Georgia,serif;font-size:17px;margin:0;line-height:1.35}
+.card p {color:#5b626e;font-size:13.5px;margin:0}
+.meta {color:#5b626e;font-size:12px;margin-top:auto;padding-top:8px}
+article {max-width:720px;margin:34px auto 60px}
+article .kicker {font-size:12px}
+article h1 {font-family:Georgia,serif;font-size:31px;line-height:1.15;margin:10px 0 6px;letter-spacing:-0.3px}
+.byline {color:#5b626e;font-size:14px;margin-bottom:26px;border-bottom:1px solid #e3ded3;padding-bottom:16px}
+.lede {font-size:19px;line-height:1.5;color:#16181d;border-left:3px solid #b3402a;padding-left:16px;margin:0 0 26px;font-family:Georgia,serif}
+section {margin:0 0 28px}
+section h3 {font-family:Georgia,serif;font-size:19px;margin:0 0 10px}
+section p {margin:0 0 14px}
+.source-panel {background:#fff;border:1px solid #e3ded3;border-radius:10px;padding:14px 16px;font-size:13.5px;color:#5b626e}
+.source-panel a {color:#b3402a}
+footer.site {border-top:1px solid #e3ded3;padding:18px 0 40px;color:#5b626e;font-size:12.5px}
+footer.site .wrap {display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.hero-img {margin:22px 0 24px}
+.hero-img img {width:100%;height:auto;border-radius:12px;display:block;background:#22334d}
+.credit {font-size:12px;color:#8a909a;margin:6px 2px 0}
+.sources ol {margin:6px 0 10px;padding-left:22px}
+.sources li {margin:0 0 7px;font-size:13.5px;line-height:1.45}
+.sources .pub {font-weight:700;color:#333}
+.sources a {color:#b3402a;text-decoration:none;word-break:break-word}
+.sources a:hover {text-decoration:underline}
+.srcnote {font-size:12px;color:#8a909a;margin:6px 0 0}
+.cite a {text-decoration:none;color:#b3402a;font-size:11px;padding:0 1px}
+.card img {background:#22334d}

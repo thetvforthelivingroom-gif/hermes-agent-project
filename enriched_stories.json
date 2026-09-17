@@ -4,79 +4,884 @@
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKTFFqZ3AtSVF6c2Rhbk4xQWotQWFJS192VGZPZ1BiSXVjWkNFQWtvMkE5LVRCWU1NdjNDaW5mOExqemZLd0NkZ3p0X1Jwb3dQck9Xd2ZFUDh2ZXc?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T03:20:20Z",
-    "summary": "This article titled 'One person dies in fiery helicopter crash in Los Angeles - BBC' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?One+person+dies+in+fiery+helicopter+crash+in+Los+Angeles+-+BBC"
+    "summary": "One person dies fiery helicopter crash Los Angeles",
+    "image_url": "https://source.unsplash.com/featured/800x600?One+person+dies+in+fiery+helicopter+crash+in+Los+Angeles+-+BBC",
+    "thumbnail": "images/00-one-person-dies-in-fiery-helicopter-cr-wiki.webp",
+    "image_credit": "Wikimedia Commons",
+    "category": "World",
+    "report": {
+      "lede": "Driver arrested in a bus collision that happened before a deadly news helicopter crash in LA \u2014 reported by PBS and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "PBS reported: \u201cDriver arrested in a bus collision that happened before a deadly news helicopter crash in LA\u201d [3].",
+            "NBC News framed the same development as: \u201c3 dead after news helicopter crashes while covering deadly Los Angeles bus collision\u201d [2].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "abcnews.com: \u201c3 dead including reporter, pilot in news helicopter crash in LA\u201d [1]",
+            "NBC News: \u201c3 dead after news helicopter crashes while covering deadly Los Angeles bus collision\u201d [2]",
+            "PBS: \u201cDriver arrested in a bus collision that happened before a deadly news helicopter crash in LA\u201d [3]",
+            "The Washington Post: \u201c3 dead after L.A. news helicopter goes down while covering crash\u201d [4]",
+            "ktla.com: \u201cNew details emerge in fatal Metro bus collision that preceded news chopper crash\u201d [5]",
+            "KCRA: \u201cAt least 3 dead after NBC LA helicopter crashes in Los Angeles\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "3 dead including reporter, pilot in news helicopter crash in LA",
+          "publisher": "abcnews.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFJkM0JxbTZRVkhwdFZTeHZEWjM0Rnl5cGhGeWVmTFdKM0lYc1pNc21tM2haZ01iZXBZRXZtZm9MUm5tb0JTUWdLODA0QXRlOE9oTXd0N3FrTWVuYXV0Skd6V2ZzOHhaaHV2TEJQNkl6VlhFeE5GYkNQcVlrT1BCdE1faThrenp2RkxHZ3hGTURZdmxPcFlrS05Xc9IBoAFBVV95cUxNeDZJcmpleGZWbnAwM21aX3ZBemFaencyYTcxNWdDdnEtYUhVaGY2dmkxMjNxOGN3VzlsSzNQUmh5OHBCZ0pUenU5WUhnLWdsSEtMc0Vjdi1JNDFfWEQxR0gtYWlxdzlHdUcxU0hGci1TYnoyOF9jb0JkQkQ0SmJzWXMtUjZNcWYwVmV6c1J0Vk5VbTVjcEN3SWdKZmhtNzBp?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "3 dead after news helicopter crashes while covering deadly Los Angeles bus collision",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTkZKTnpWb1VuME1pWVJfX2hUR0NTNXRLNzFmREpOeVEyaDBVUnBpZGppRVRkd1FsLWxackJjYU1jS0FUR0ZjS2tYeXlPcHBlT1pTMEs0ajBOWFptZDMycHZvNjVuYm9tMkNmOW1ySnFpQnQtdjRCTVY5NnVhOHBxWUdpRFk3S2o3dThwa1NPTGYtMEE?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "Driver arrested in a bus collision that happened before a deadly news helicopter crash in LA",
+          "publisher": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSnR6SlZoQTFzNDJmRXlQWVNNZW9FcHpNYnVUZ0Z3N3VuQkk1S0JLTVBXMlI5LWhZejBWdXJabUFBTzlialN3RF9SVmx5NENFMmRxWWwwOFNWamk3TFN5VFJNT0JFUUoxZ2pGaHZQeDlVXzgyN2JncXNhdU1Vem9FWURrcEV0SENSX0lxZVlPZzRsTE5FRFhUUmRORzJITzRneWk1eGZXT0ZhUUVx?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "3 dead after L.A. news helicopter goes down while covering crash",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2pBaVFJR3hwMUY3cF90RE9GTXFoMnpYcjRQR2RyMHdPMmRPdGVVTEF3UEZlTi1Rejd5QTFidXk1aUZFVVlIcTZXa3VydUd3WmZZbG9xbkdoS1RrRUNUZ3BiQTV5S0ZDdEVuY2d6dVlwSVpRMW8wd1U0bnlCZUR4aXZOLUtvTmFVMkNMMkhsOTd6UjNROWgzR2RUNS02VWRmY1gwaWFlbDNpWVR0NTliNXlsWlhPNVFZbVZRaQ?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "New details emerge in fatal Metro bus collision that preceded news chopper crash",
+          "publisher": "ktla.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUZCVHo2cFl2TGdQcTdlVUMxVVJabHpKdDBvMDJMSnhrbzdJc2hNR2diV2g0bWxmXzRlWWozT093UmRhTUpDVFE0clJXaWJyMDliQ3VKS2FHYjdzOS0zOVRiMGhOUlFiVHhvN3V0SFY0emQ3Uk9vTFcwQV9xcGJtRk10T2tlY1UzaTRDZWswbzRlMUZvX1lVM0VLX2VoWDJKcV9BaXlLTlc0VFduSXNF0gG0AUFVX3lxTE5RalkxOTBMNlN6ZUJBNUdBLUdmMzFYQldDVU42YWxFN0dMLWhQZk1HQWRZdTByb0VyWFdGZ2RJUHBUcW1tNzlxbUprbUEwNWx2cVc0YUQ3VnlBUWtLQW56S2l6V3Q3c0JFWEdKUE96eHNYWi1tTVNBekRFNFVOTmIxS2xYZDdpbHBsUWNRZnpXODNwR0d0eGEyVGJnSnR0MGVMZnB4LVdfYVlnVHlNcDNrcnNGQw?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "At least 3 dead after NBC LA helicopter crashes in Los Angeles",
+          "publisher": "KCRA",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXBaYWhHTjBNRkhoTjBzNlJqa2liX2ktSURELXJBc1h3RGJNenpMMUJyRGtXZjVFSUkyVFhDWVYxWFZqYVh3aTJKM0F6SHRrR2dybTMwSDIwWFZJZlpBdmlwRGRTS1o3ZHprUnNfR2VUREt3bHU1akNZdkFhaE4teC1sTmN2d1VaRlQtdmhJSEtlU3NLbmo4OWNwaE5aWXk5M3ZiUUs5UlE4WEU?oc=5"
+        }
+      ]
+    },
+    "slug": "one-person-dies-in-fiery-helicopter-cr",
+    "kicker": "Google News World"
   },
   {
     "title": "\u2018Dancing With the Stars\u2019 Season 35 Premiere Kicks Off With the Men as the First Celebrity Is Eliminated: See the Scores, Who Went Home - The Hollywood Reporter",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXdTWXdHNHpJWUxkVS04MGdLX28zZDlJTzhoZHBORXJlNF92Tkc3Z1dWeEZHUHMtYVRjaTVwdG1LWnFkLWhTemd4YjRhNVZpVkJxbjRrc1R3X3ZYY2JQY3pzanNrdmg4bEw0ZUFpMGZKN3hlY0U0Q21PaGJ2cWhPRm9VMzlZVDJSN1FNOVNDekRMclJwZWF2ajlsVnItdktLMGEyNS1MYWxDZmM3R2kwcw?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T02:46:31Z",
-    "summary": "This article titled '\u2018Dancing With the Stars\u2019 Season 35 Premiere Kicks Off With the Men as the First Celebrity Is Eliminated: See the Scores, Who Went Home - The Hollywood Reporter' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?%E2%80%98Dancing+With+the+Stars%E2%80%99+Season+35+Premiere+Kicks+Off+With+the+Men+as+the+First+Celebrity+Is+Eliminated%3A+See+the+Scores%2C+Who+Went+Home+-+The+Hollywood+Reporter"
+    "summary": "\u2018Dancing With Stars\u2019 Season 35 Premiere Kicks Off With Men",
+    "image_url": "https://source.unsplash.com/featured/800x600?%E2%80%98Dancing+With+the+Stars%E2%80%99+Season+35+Premiere+Kicks+Off+With+the+Men+as+the+First+Celebrity+Is+Eliminated%3A+See+the+Scores%2C+Who+Went+Home+-+The+Hollywood+Reporter",
+    "thumbnail": "images/01-dancing-with-the-stars-season-35-prem-stock.webp",
+    "image_credit": "Photo by Vlad Vasnetsov on Pexels",
+    "category": "Culture",
+    "report": {
+      "lede": "\u2018Dancing With the Stars\u2019 Caps Off Season 35 Premiere With the Female Celebrities and an Elimination: See the Scores, Who Went Home \u2014 reported by The Hollywood Reporter and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "The Hollywood Reporter reported: \u201c\u2018Dancing With the Stars\u2019 Caps Off Season 35 Premiere With the Female Celebrities and an Elimination: See the Scores, Who Went Home\u201d [1].",
+            "deadline.com framed the same development as: \u201c\u2018Dancing With The Stars\u2019 Recap: Season 35 Kick Off Continues With Ladies Night & Another Elimination\u201d [3].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "The Hollywood Reporter: \u201c\u2018Dancing With the Stars\u2019 Caps Off Season 35 Premiere With the Female Celebrities and an Elimination: See the Scores, Who Went Home\u201d [1]",
+            "ABC7 Los Angeles: \u201c'Dancing with the Stars' season 35 premiere night 2 sees strong dances, 2nd week 1 elimination\u201d [2]",
+            "deadline.com: \u201c\u2018Dancing With The Stars\u2019 Recap: Season 35 Kick Off Continues With Ladies Night & Another Elimination\u201d [3]",
+            "Cincinnati Enquirer: \u201c'Dancing with the Stars' eliminates 1 after voting issue. See who went home\u201d [4]",
+            "People.com: \u201cWho Was Eliminated on Dancing with the Stars Last Night? See Every Season 35 Pair Voted Off So Far\u201d [5]",
+            "The Florida Times-Union: \u201cWho was eliminated in 'Dancing with the Stars' premiere? See scores - The Florida Times-Union\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "\u2018Dancing With the Stars\u2019 Caps Off Season 35 Premiere With the Female Celebrities and an Elimination: See the Scores, Who Went Home",
+          "publisher": "The Hollywood Reporter",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkxEZHVBMFlNaWpaNXhKZ2xqUjNUS29CRHphcDZnbmd3YUdpY2RoOEMzejVqaTBfWUxtYmJEWGgtbU4waVhDcExsWmpsYTdXd19PbVEtV3lTX2dIcU0taGxPWVN5MWlIMEpEbnJJVnVpRlktX1VBX3RfWUhEcGd6SmxjRU82UFJvejRlTW9XRnZKQVpEWk54blNIT2ZUWlBFbkM4MWgtNTVqMFZ1UWNoYkprRDFvcW5GUFVF?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "'Dancing with the Stars' season 35 premiere night 2 sees strong dances, 2nd week 1 elimination",
+          "publisher": "ABC7 Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzVXR2t3c05rMmlWSnpkSjNFaV9tNUM0cGpxOGZ3Z2R0TmVQVUtEY19rRVNpNUpHMElidVNJREUxQ2dTVDhQWjJ5N2QtQlcwSFJrYUpuWW9ROVEzRnVqMUdjVkhRcjBlcU9hUDRjV1BsOUExdlNnZmpTblZCcWF6a0dZZDQyRjZHaHpwZ2xwZ3BhRUhzSlNSSmRBWmx0SWRUaHFETXFYX1NTcmtlMG1zT0pxTjLSAboBQVVfeXFMT3RMajkzeDZOY3dQV0QxODhOQVlMMXpnWWhUcWgySzM3SnRpRkphLXdhbGZvLTctdkd3QURMWEhJNGJpT0dSa0hOOHZrZHoxelpzVFlNMWZGUWxmcmV2cWRLbDhPenB5b0stSFVyanEwOFlIQVdEa2FuMEl2cDZmVEkwYlBpNnItQ3d6SkNvc2lvbXZwNzhCR3RWLVNjMElMU2JzX1pOZkJ1UnA1cmNORlc3VkdtQzR0V0Z3?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "\u2018Dancing With The Stars\u2019 Recap: Season 35 Kick Off Continues With Ladies Night & Another Elimination",
+          "publisher": "deadline.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPem4wVGU3TzBMaWhBcExiYVFDX0MzS3VETzBxaFRWYzhwYTM2NEhUYnpjS0g3N3RqblFxQ0VZVXBFWmppNDBCOTdFYUdqejJybmNhaVRKUjJUMmdBLXZIVUlUWjhUdlpaRGpaYy1rbXl2Z0tTaktSOGo0NUQ1WmtFY2dVUlE4TjZ3SnNKbHByNGt2NTQ5MHFQREtINEU?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "'Dancing with the Stars' eliminates 1 after voting issue. See who went home",
+          "publisher": "Cincinnati Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlVqLWhLSE5uVDJyNkVFT2RJVFpNc3BPVHYzcW00NmlSV2RZZ2QwY2FNbVhZSy10WlJqQWlGb2tFUEF2aDNXR01CbkNHUHBDVFI0MmhRQmg1RGhOQlNiSzdYQk5LcG1hYmFxUk5pbHR2Nmc4c3VXcTVmdGc0MGdIT3VUVTRBdk9jNHpzXzdDSDNsSlF1enREb3U5WjZ3UVUwRjhSeFBNMlM0b0hibWlESENhU3Bvc3c5Q2xWZHU1R05BQWh5bUFiY0tYSWI1UQ?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "Who Was Eliminated on Dancing with the Stars Last Night? See Every Season 35 Pair Voted Off So Far",
+          "publisher": "People.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVhCNmpyYjlpVXlXS0xLcmgwREl0aXJSZTRndXp0RFFkUWpPVm1SRTNqXzZ2cktYeDl0NUJfN3FsaXNtLXFqTnV2c1hPeVJ2T3IxSkZUUFlBRGZ4TjNMSmFodlRjZVRDeEZheHp1MDQzR09lRS01bldrTUlJSGcxYUhZQWw3aVBuMTdGMQ?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "Who was eliminated in 'Dancing with the Stars' premiere? See scores - The Florida Times-Union",
+          "publisher": "The Florida Times-Union",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSXd1djRBNDdBRW5uWDlxaE51VU02dEYwcDk2NndoVURYSVJGaUJ5M1Uxai1yVUZ4aGlTUV9vMnV3eUlkWllHWFVLU0ZpMlA0Y2ozT0VZZ3pQSjdXdUw1dUk2RFBfUE55SHlISF9xQkdkNVMwbXVndTlLTHVFemFBa2ZpRlhIRkcweW9pbUVjNUswZDhyWU16WTkxNmNHOG5YdFc2SjFBNmthS09YVUROaGJDeHlLeUlPY0xhRHltT2EtekwzX0dYc2QzdlFfX0szUlEtUGFuX3F3MWo3dXRUOHJTdHNkMFc5WldfOFM4WVY1bHFPRzlqcGdETjFTc3hJcXc?oc=5"
+        }
+      ]
+    },
+    "slug": "dancing-with-the-stars-season-35-prem",
+    "kicker": "Google News World"
   },
   {
     "title": "House votes to limit Trump's power to strike Iran for 3rd time, as 7 Republicans defect - cbsnews.com",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemFWRzlJa1NQdVdadlg4NW84NFJXaGlybDJfTDYwWkV1WjE2VTFlZGxxV1pTZjZ6UWtQa3FkODEwQWpXaV9UeVZBT0JzVnZfTDgxUDUtWHJtNlg5VVg4QzNJZlk3RzExMUppcXN6N0JKUUFlSEtKeWxIdWw1YzBMSTZZa2hUOG12UHc?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T02:35:00Z",
-    "summary": "This article titled 'House votes to limit Trump's power to strike Iran for 3rd time, as 7 Republicans defect - cbsnews.com' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?House+votes+to+limit+Trump%27s+power+to+strike+Iran+for+3rd+time%2C+as+7+Republicans+defect+-+cbsnews.com"
+    "summary": "House votes limit Trump's power strike Iran 3rd time, 7",
+    "image_url": "https://source.unsplash.com/featured/800x600?House+votes+to+limit+Trump%27s+power+to+strike+Iran+for+3rd+time%2C+as+7+Republicans+defect+-+cbsnews.com",
+    "thumbnail": "images/02-house-votes-to-limit-trump-s-power-to-wiki.webp",
+    "image_credit": "Wikimedia Commons",
+    "category": "Politics",
+    "report": {
+      "lede": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran \u2014 reported by PBS and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "PBS reported: \u201cSome House Republicans defect to again pass resolution seeking to halt military action in Iran\u201d [6].",
+            "fox4beaumont.com framed the same development as: \u201cHouse votes for third time to curb Trump's Iran war powers as 7 Republicans join Democrats\u201d [2].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "CBS News: \u201cHouse votes to limit Trump's power to strike Iran for 3rd time, as 7 Republicans defect\u201d [1]",
+            "fox4beaumont.com: \u201cHouse votes for third time to curb Trump's Iran war powers as 7 Republicans join Democrats\u201d [2]",
+            "Newsweek: \u201cList of Republicans Who Flipped To Block Trump\u2019s Military Action in Iran\u201d [3]",
+            "Straight Arrow: \u201cHouse votes for third time to limit Trump\u2019s Iran war powers\u201d [4]",
+            "The Times of India: \u201cUS House votes 220-204 to curb Trump\u2019s Iran war powers; 7 Republicans back move\u201d [5]",
+            "PBS: \u201cSome House Republicans defect to again pass resolution seeking to halt military action in Iran\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "House votes to limit Trump's power to strike Iran for 3rd time, as 7 Republicans defect",
+          "publisher": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemFWRzlJa1NQdVdadlg4NW84NFJXaGlybDJfTDYwWkV1WjE2VTFlZGxxV1pTZjZ6UWtQa3FkODEwQWpXaV9UeVZBT0JzVnZfTDgxUDUtWHJtNlg5VVg4QzNJZlk3RzExMUppcXN6N0JKUUFlSEtKeWxIdWw1YzBMSTZZa2hUOG12UHc?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "House votes for third time to curb Trump's Iran war powers as 7 Republicans join Democrats",
+          "publisher": "fox4beaumont.com",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbTZrdHRQdEdDaGR5b1RoYTJjc3BWMmZCQ0xabWlBZF9TaHkzR3NxX0Q3RkgwS0RmcGJkaXQ4dm9xY2dBNWFjdklvTTNCN0pzajdYbTd5Nmdjalk2RmFvOU9TWlVLeW1LdHZDc0t1RkswLVhzMDhwRzZwOWp6cXN3eE9SbjNIOEtnRnpZb2NjLUFtM3JTMHZBQ21VUkxoZmhkTDR3UGNrb29CVkI2QjRWV09NYndmcC1ZWk5JQ1dYNExwaVJjMzQ4RGZTOWZSYlRwT09pb2RfY2ZqeU5hdzktTlRTaE5pbDItc3BGX05EdGRIWEdhdGlpdVhRZW1FVzdacnBscjQzY295S3ZkNy0ySjFyWmFoaTBnYi00ZmxxajcyalZSWi1PXzJKZTE5T0ZRZFE?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "List of Republicans Who Flipped To Block Trump\u2019s Military Action in Iran",
+          "publisher": "Newsweek",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV25IVk12OWpjZXJSeW1LcDJnNHhQYUd5VWJ5Rmg4M3Q3T05tZ1FNTUNKMlBKdWR4TFczOFZpcmsyX1BWZ1NjdldHczJ2eHBsNEZzWkp0MEw2emJKYzU2VnhzWHpBamhqcmxIdENlamZOZDNNMUg0WGxFVGRLUTR6SEVkcUswNmJqS1psNW9vQ1A5RlMyN2c?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "House votes for third time to limit Trump\u2019s Iran war powers",
+          "publisher": "Straight Arrow",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLXdKcXJVcXMzZHFWQUZTdzktUUZvaEIxN0FyTlRHNHFVSEJIMGEtanJaY2d3cldPLXI3ck5ZRUs5R2ZLbTJuQXd2ZFJYV3o2VExzQUdYUHhWci1zdTN3Z1ZvSHk0U2VIV1BVY0FwSjRBQ0lkM3ZBZE9fcTJnalVHRjFhS3U?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "US House votes 220-204 to curb Trump\u2019s Iran war powers; 7 Republicans back move",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeEgySDlNNUpneUhVT0IwNW5rTWV5Z1Z1OWFPcmx0c0NkckpLdU5sSi02dGo0d2tRU19xVG5lR01uSVBRZ0JZSTB2VmZ0eVEtMXh5MFpaaUFiNGlEQ1ljNkl5VHhka1lMSGpBZ3UzNWd4a2d5VzZGUUtLQXVKYUIwYXoyeDFVYkNCVDRxV0dudWZkRDF6dUhJMENiYUxMQTlLRUYwYUhDNjZjY1JNam1JbXAyTzJyVFJBRWFEQkRhNWk4TlZQSlo0a1hIbEJFRW5vbEpOaDExazBneUI3NE1VOHNn0gHnAUFVX3lxTE84SGpYNVJ6dU5NSHNqa3dGODdUMGtPQ2lKNXFua0dFbGJDRUZLMGgtRzJtQ2MwM0JHdEd4eFh0NHJmcHNjLXdYRkhKazFSTFEyVG10Y2pqWmJUa01aQ0JBQzh2bUdwTG8xdm16VFQwMUFSanhacEZSUXhLYnJUTWp2dC0tSEp2dmNiU3F4M0c2ZjJKRUJSRkNwbEdxUVFsME90eUdIMGliVEE5OHdZaXVsalR4M3VCVTdjdDhwTXhlcjF0SGY5b0pMTzdERUxFeWsyZXFaa0pudFVOYXBva2p3bzJKTEdNVQ?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "Some House Republicans defect to again pass resolution seeking to halt military action in Iran",
+          "publisher": "PBS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTnNvSzFjc2h2QzU5Z2dvTEYzaU1TM1FCVE9raEZpVUdRTXA4TzVyX3B4VXU4WENpUG96akFrWG9OS0daWE90ekxjMlpaRVlzRVZVXzRVbE9MbTQtVVY3Q1FOMkp6TVY0ZzhPSnRkUUp5NVMzVllhRU5DdmwzcWRlZG5YMGIyT05fSkRvTWIyNTM0SlpxVzIxREhMTm90NUlkSXdJZmtteERUamNvaVJ3bFBqSmNha2FOcmM4bmdZbi1ja1B0Z1VBYmFFT0vSAdIBQVVfeXFMTTRlOEJXU2l3QUZoSmFLM2xtYUpHQVJnOHBaUjBwbENnVEQ4V2pZOFZ2enhXYTl4WVoyamhXcDA2aUZtSjd6SXF0dEFRN1Z6LXJwVUMwWFhudFJuYWZfV0dqX0ZjdXoyMk1wS1h0aGNKdmpHby04Q3RqN0JNaTE1UXh2aUE1cHZtYTdJUE1RNnhsREdwYVAzMU9WMkRzLV9EX3hOUGpYeHJXSFFRTE13V0FHTkhEWi1rd1hpVDBxUVJvRG8yWm5mYkdZLXl5bUxGYkJB?oc=5"
+        }
+      ]
+    },
+    "slug": "house-votes-to-limit-trump-s-power-to",
+    "kicker": "Google News World"
   },
   {
     "title": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War - The New York Times",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnNCQmRnaWpmUXJsSTBYSFhuMm1XWldQMjBKVHgxSW0zQ3R4MHJfYUkxbklibVl1UVZwYWY4OU5SN2tYNjFKNDJiQUFhRGhlN3BRamhwQUdNS05vYVc1SFdwaklHa3FOT21QdjJJelhsZTc4NDVpNmxnZUVFTVpuSFZkTjdibklQRjlVN0VhZUo?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T02:27:56Z",
-    "summary": "This article titled 'Pentagon Inspector General Details U.S. Losses and Challenges in Iran War - The New York Times' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?Pentagon+Inspector+General+Details+U.S.+Losses+and+Challenges+in+Iran+War+-+The+New+York+Times"
+    "summary": "Pentagon Inspector General Details U.S. Losses Challenges Iran War",
+    "image_url": "https://source.unsplash.com/featured/800x600?Pentagon+Inspector+General+Details+U.S.+Losses+and+Challenges+in+Iran+War+-+The+New+York+Times",
+    "thumbnail": "images/03-pentagon-inspector-general-details-u-s-wiki.webp",
+    "image_credit": "Wikimedia Commons",
+    "category": "World",
+    "report": {
+      "lede": "Missile shortages, damage to US facilities: Pentagon watchdog issues first review of Iran war \u2014 reported by CNN and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "CNN reported: \u201cMissile shortages, damage to US facilities: Pentagon watchdog issues first review of Iran war\u201d [5].",
+            "Breaking Defense framed the same development as: \u201c\u2018Hundreds\u2019 of buildings, \u2018dozens\u2019 of aircraft destroyed or damaged during Iran ops: DoD IG\u201d [4].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "The New York Times: \u201cPentagon Inspector General Details U.S. Losses and Challenges in Iran War\u201d [1]",
+            "dailypress.com: \u201cPentagon Inspector General details U.S. losses and challenges in Iran war\u201d [2]",
+            "NBC News: \u201cPentagon watchdog says Iran war has led to munitions shortfall\u201d [3]",
+            "Breaking Defense: \u201c\u2018Hundreds\u2019 of buildings, \u2018dozens\u2019 of aircraft destroyed or damaged during Iran ops: DoD IG\u201d [4]",
+            "CNN: \u201cMissile shortages, damage to US facilities: Pentagon watchdog issues first review of Iran war\u201d [5]",
+            "The Boston Globe: \u201cUS troops must prepare to fight around the moon, Trump\u2019s top military adviser says\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War",
+          "publisher": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnNCQmRnaWpmUXJsSTBYSFhuMm1XWldQMjBKVHgxSW0zQ3R4MHJfYUkxbklibVl1UVZwYWY4OU5SN2tYNjFKNDJiQUFhRGhlN3BRamhwQUdNS05vYVc1SFdwaklHa3FOT21QdjJJelhsZTc4NDVpNmxnZUVFTVpuSFZkTjdibklQRjlVN0VhZUo?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "Pentagon Inspector General details U.S. losses and challenges in Iran war",
+          "publisher": "dailypress.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXT3dkYjVadFZJR3B4NDM4SVNpR0k4NFlic0p1dDBCR3N0ZTZuYk5FNGxmZFlmZFdLdGM3R1Q5N3dRR1ZCSDlwWk44RERsblM3N0RCcG5mdnFMdE41bTlRWlAwR2M2dXNObTBiZGNQRkpGbXBzS1FUNmVn?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "Pentagon watchdog says Iran war has led to munitions shortfall",
+          "publisher": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDJMMGxRblFITlJtQllWa2Njd1NvWnZXejVlVmRXQjd1bmstSWU4Ykd5cjl6RzRvaEUyYTZUdXF5VWMxN09GaHdWSmw1OVgxZ3JEdlJHWU5WeTF0eXVHbkNQQTVGTVNId1BtY0pJcFlJY0JjNU1MRFhfQ25SMkZqVWVHTHVTNmVzdEdkR1YxNkp6SldBUXA3NnNqdWZRMGJWaHE0eE55TGxFcll1R0dGVllGR09xZURn?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "\u2018Hundreds\u2019 of buildings, \u2018dozens\u2019 of aircraft destroyed or damaged during Iran ops: DoD IG",
+          "publisher": "Breaking Defense",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVXFFdUtvQU5IRHZHYWd3bDBvUjQ4aWxyT2NEbGUtTFZpYmdvSXAzUzFNUjNpQXAwNzNvTldvQXRidlFnUnVzeE9FX2ZSUDM3OEpqZVdMeUZfcVo4R0FFdFFiTy1nLUUxUXo2TW9vNFA3QUtGRU5IMndEUklQYkxZMEJ4T1JVa2puR2RxWC1UaGhCOFV0UEpTeWdzNlBnNlZjTUE?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "Missile shortages, damage to US facilities: Pentagon watchdog issues first review of Iran war",
+          "publisher": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IXzV0YjlVTWNIZVpJLVFYWk5aWDlIUFV4Sngxa24tMnNWTXFCclYxYkI2OUpYczNBZGJUUE1iVzhtb0pOY1hFVTdXZ2lYamxJMDhUNFpCMHp4N3o4em9RY0dJcjRXbkVkRm42SmE0U3NjZ1BLLXNueUtCc0xHUQ?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "US troops must prepare to fight around the moon, Trump\u2019s top military adviser says",
+          "publisher": "The Boston Globe",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzh3enZra0hhMlJXcDlzYTFaekhpYVpfTXREWmtNRmFndkp5LVUydHF3N0ppa1VsNGpIdXpCV3R6c2xsUGoyMDJGeGNRYzlmbDJZWnEzQWc5czVlUzNWSzBQX0tnaVJuWXltY3liQXE2NUhPc3dETTI4VFhkTFU0U3J3?oc=5"
+        }
+      ]
+    },
+    "slug": "pentagon-inspector-general-details-u-s",
+    "kicker": "Google News World"
   },
   {
     "title": "Ed Sheeran\u2019s tour in trouble after opening acts drop out in solidarity with rapper Macklemore - apnews.com",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0VZLU5QYjdHVUd4UW5OQUNTV1V3YlQ1YkMyTG1ldExKVktqcEtpX0JLbzk3bFVfdVpvTlI5UGhDMEstbWFOVlFZbVQ2WWgyaTR6THFob1NaLV91ZW1jZllqNmRvVzg2bmMxWFgzMlFZUTFtblFiYjR1UzNMbTJVX0NQY0F2dHBOYV95VlZ5ZDJKTWFrRVVEUmpTYw?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T02:23:00Z",
-    "summary": "This article titled 'Ed Sheeran\u2019s tour in trouble after opening acts drop out in solidarity with rapper Macklemore - apnews.com' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?Ed+Sheeran%E2%80%99s+tour+in+trouble+after+opening+acts+drop+out+in+solidarity+with+rapper+Macklemore+-+apnews.com"
+    "summary": "Ed Sheeran\u2019s tour trouble after opening acts drop out solidarity",
+    "image_url": "https://source.unsplash.com/featured/800x600?Ed+Sheeran%E2%80%99s+tour+in+trouble+after+opening+acts+drop+out+in+solidarity+with+rapper+Macklemore+-+apnews.com",
+    "thumbnail": "images/04-ed-sheeran-s-tour-in-trouble-after-ope-stock.webp",
+    "image_credit": "Photo by Andrea Piacquadio on Pexels",
+    "category": "Culture",
+    "report": {
+      "lede": "A propos - Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore \u2014 reported by France 24 and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "France 24 reported: \u201cA propos - Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore\u201d [2].",
+            "AP News framed the same development as: \u201cEd Sheeran\u2019s tour in trouble after opening acts drop out in solidarity with rapper Macklemore\u201d [1].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "AP News: \u201cEd Sheeran\u2019s tour in trouble after opening acts drop out in solidarity with rapper Macklemore\u201d [1]",
+            "France 24: \u201cA propos - Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore\u201d [2]",
+            "Al Jazeera: \u201cWhich artists have pulled out of Ed Sheeran\u2019s tour over Palestine?\u201d [3]",
+            "Yahoo: \u201cEvery act on Ed Sheeran's tour has quit. His next show is in 3 days\u201d [4]",
+            "Lowell Sun: \u201cWhat to know about Ed Sheeran\u2019s tour after Macklemore was cut and artists dropped out\u201d [5]",
+            "Santa Fe New Mexican: \u201cEd Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Ed Sheeran\u2019s tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
+          "publisher": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0VZLU5QYjdHVUd4UW5OQUNTV1V3YlQ1YkMyTG1ldExKVktqcEtpX0JLbzk3bFVfdVpvTlI5UGhDMEstbWFOVlFZbVQ2WWgyaTR6THFob1NaLV91ZW1jZllqNmRvVzg2bmMxWFgzMlFZUTFtblFiYjR1UzNMbTJVX0NQY0F2dHBOYV95VlZ5ZDJKTWFrRVVEUmpTYw?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "A propos - Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
+          "publisher": "France 24",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSDBJS3ZEZUtCZlZ0RTlQNHVQZVhnZ0dIYUVoeGhpNlAxeExtbGxkOGt5UVRfWHk5eTNLQkk5d3J0aVctX3QxWGVBdjV3VU96cjVhdFhJcnhVZ1NiOU1tTUllWUg1QXlfUEI4N1RsLVV5enRZU0RjRnJSU1dCcXFfSFpMWVpxR2FJWjk5OWpkbDFObnZ3UWx5VUZnNkY2MUQyeVJxZUVVZjVBdWVXYTNUcXpsR3QtaTgwVmFMVHNTY0ZhSjJhLXB2N0RWOThBU0E2ME9IalJmQlNMcHdvVUdKcXN3?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "Which artists have pulled out of Ed Sheeran\u2019s tour over Palestine?",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamo1NkdKSWdSTllHSGxlZ2hRX0hUeTFQMmJNMmFfX0otM2Znd2ZjS2phSUdDcHlPX3AtUjB4R0tyMWJCSDdLZ3JWbFFmaHZlTC01NWZJMFlUUVE3QzR3STNBZDg3aGg3bnhqc0FlWlBjS3NNeHFfbmY4OUwtTGhreUZWeFVEMEUxTUFjWWwyU0dfcjZDTmZKNDFuSFNZSlJ6Y1l1btIBqgFBVV95cUxPRERfWXRDd0RkVXJHa3FtQ1F0dmk2emV5VXduUjhqZHdPeU5vMndJWGJnQ21MTTA5M1lYelBXMUFkVDhoMFlIazViaFVmR205WmNJZTU1VVFMVjhobEc5bGlwdVVSZWFIS3ZyeU5uRi1DY3VsVU1YcmtnYnZXOU1JYWdqa2FoR1V1U1dKNXFNU19qYnpVVGV0azk5VU9wNzRfSGlMQjN4VTVHZw?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "Every act on Ed Sheeran's tour has quit. His next show is in 3 days.",
+          "publisher": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1owaUJ3WlNJU0g2MTZ1XzlFTlJJUFcza0F6bXBwM2NVemEwbFZneFdUUWVUMXpkVF9lc2hBQ2oyb1JxQUFmVEVPQ0ZlQlpaRHhxQVYxWkFUN0VmS2pJdEoxRkNBa1F3TE9SeklWSXozWlhQaGczZkdldWIyVUx3UFJvQXpDZ0Z4MmJhTWRPenVCZzJvaFVVNXFJSGpsMWItWjhZc05CTHVEelRxWDg1UkpCSDl0d0hScVE?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "What to know about Ed Sheeran\u2019s tour after Macklemore was cut and artists dropped out",
+          "publisher": "Lowell Sun",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmtKcUc2eXBldkkxTE5NbVdJRHBPUXQ1SENpUzQydjVEc1l4SHdpT3ZHWTZjZHdQMmRlWWtYRDgyYlZjQ1EzNUFHTDFaRGFyZGdPbkdKRWpZQnVqVHNIb0sxV00xTklXQThIVXIzOHZzYzVUblRKVFk5Z2RrUGJ5b1BHeUV0bGxPeUI1VXJn?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
+          "publisher": "Santa Fe New Mexican",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSjJJM3RGX084bUJDazduZHpydER3ektJMENObVJ1c2ZYTjd4Nkw4R1BqQkxXZU5sV01hNmpRMFh0Q0xJLVE2eFNUN1FEcVoxMWdNN0t5NmZZMko5VEZISjBKU3ZfNThLQk5GVFBTaVA0OURkTEdsYjh3aGN6dmlDN25ORkJ4M0NTMFpoUlExVTUyeFVLbWJhdjRhLUJVaC1VWk5mN2FRREh1VUZXdS14eFhESnhENHowUkpxUC16bENuMnJHclJGS1REbm0xQW1rUTJQTDh2UFJaRmFtanIxTFRjRkRYLWJ2YUZ2RGVMc0w2OWdJTUxZZVBLWk1weUo3bExsclJmRlNMcTRXY1E?oc=5"
+        }
+      ]
+    },
+    "slug": "ed-sheeran-s-tour-in-trouble-after-ope",
+    "kicker": "Google News World"
   },
   {
     "title": "Senate fails to advance crypto bill, dooming the effort this Congress - The Washington Post",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUExRNEhHS01sNnAwQjhlWnhwWEVCZXZ1QllvRWdUaWdxSFZGYk5QV0I3aEZyNUc5cUowN1p4SmE1eEVPWDRTN19FQmpuS2JZeFJROXlKUkk2VHM2a21VM0cxajhWdWRoOEpHU19xaWU3NkYxZW5RQzY1TWk3amdQRDQ4bU9FVnZVR01PVE9fanhsckkzeXExRS1ydWs2Rkl4LTlacHZybllOOGo4VTZlQzUtaw?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T02:05:09Z",
-    "summary": "This article titled 'Senate fails to advance crypto bill, dooming the effort this Congress - The Washington Post' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?Senate+fails+to+advance+crypto+bill%2C+dooming+the+effort+this+Congress+-+The+Washington+Post"
+    "summary": "Senate fails advance crypto bill, dooming effort this Congress",
+    "image_url": "https://source.unsplash.com/featured/800x600?Senate+fails+to+advance+crypto+bill%2C+dooming+the+effort+this+Congress+-+The+Washington+Post",
+    "thumbnail": "images/05-senate-fails-to-advance-crypto-bill-do-wiki.webp",
+    "image_credit": "Wikimedia Commons",
+    "category": "Politics",
+    "report": {
+      "lede": "Why Clarity Act failed: There were many conductors in the derailment of the crypto industry's historic bill \u2014 reported by CoinDesk and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "CoinDesk reported: \u201cWhy Clarity Act failed: There were many conductors in the derailment of the crypto industry's historic bill\u201d [4].",
+            "Hawaii Tribune-Herald framed the same development as: \u201cSenate votes to block crypto bill in major blow to the industry - Hawaii Tribune-Herald\u201d [2].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "The Washington Post: \u201cSenate fails to advance crypto bill, dooming the effort this Congress\u201d [1]",
+            "Hawaii Tribune-Herald: \u201cSenate votes to block crypto bill in major blow to the industry - Hawaii Tribune-Herald\u201d [2]",
+            "American Banker: \u201cCrypto market structure bill fails in Senate vote, 49-50\u201d [3]",
+            "CoinDesk: \u201cWhy Clarity Act failed: There were many conductors in the derailment of the crypto industry's historic bill\u201d [4]",
+            "Decrypt: \u201cCoinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails\u201d [5]",
+            "\u062e\u0628\u0631\u067e\u0648: \u201cCLARITY Act could get another shot during lame duck session,|Cointelegraph - \u062e\u0628\u0631\u067e\u0648\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Senate fails to advance crypto bill, dooming the effort this Congress",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUExRNEhHS01sNnAwQjhlWnhwWEVCZXZ1QllvRWdUaWdxSFZGYk5QV0I3aEZyNUc5cUowN1p4SmE1eEVPWDRTN19FQmpuS2JZeFJROXlKUkk2VHM2a21VM0cxajhWdWRoOEpHU19xaWU3NkYxZW5RQzY1TWk3amdQRDQ4bU9FVnZVR01PVE9fanhsckkzeXExRS1ydWs2Rkl4LTlacHZybllOOGo4VTZlQzUtaw?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "Senate votes to block crypto bill in major blow to the industry - Hawaii Tribune-Herald",
+          "publisher": "Hawaii Tribune-Herald",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZWZfY2ZuemctRE5KLWtfVGhQT3JZY3JhbGdfWXA3YzRQNHFzcDg4TWpkZHF5b1BQR3dfN0EzV2paUnExd0Jidjl5QUdYTjRMNlk2a3ZBbUlkaVY2QjJ4SE11RWhVamtaZHgzYklKMnJ1Tl9Zb3ktb2VDZUMzMWx3TmdNU1hNM19WY0VIWnh1NTVyVDdzb3pPVFlqeG91LWNMVkczWm9uNVdMQ0xqVTZDS1JvcjE0eVA3OFR2clpveGVKZEJGc2IxdXJ3?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "Crypto market structure bill fails in Senate vote, 49-50",
+          "publisher": "American Banker",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcTZQNXByY21peFdZNzJnQmRBR092dDJ0bEt3QVdnbU5rTENreVZRSG1Dakt6VGp1d01BWklJa1d0Z1hZb3Y3Vk9FUkVGTHFCY2MzX3EtM2doRE5mbFg3bWd1c19OVXZvZ0NOQzh3amdZRzJSN0xDMXBfblY5NHl1MVN4YXJpakExTjIxOGtzUmxHb2Z5LUE?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "Why Clarity Act failed: There were many conductors in the derailment of the crypto industry's historic bill",
+          "publisher": "CoinDesk",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYjhTZW1kZE9xcHJMTllnYjZzME01SkJaWFdCbkNGWWtqbzBMcUhDSVBBWVBDbS1WYTVZZUlNa1lMUUhzWWZRcUprUGdUUWRvUDVOcV8zaHFlbVkxT1F0ckh3eWhfNW1aaW9kaGM3dTlkZUg1RVh3ZUtHalR6a0VPQmxlWV9lWEYzaGpBa1JqNlNIeDk5Wm1DOVBoXzBodVc3Q0ctSlF1YjEza0wxR2pnNVYzMjg0TFRHSjJ4cE53NmhHMlFTM2hPV09lTQ?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "Coinbase-Backed Crypto Group Warns of Midterms Payback After Clarity Act Fails",
+          "publisher": "Decrypt",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbWZkREhaSjZucU5JSXpOUVd0OUpSTEF4WEJqc3VMSWp2TVE1Ql9sMTZqTS1PTEZva21EVDJlRHB1UndGYUVNNS05T1lSUndCMGNFcVpSZ3Yzb1VlMzJwc1hHakhJdlZlaUpkc05oRHp1T2JYVThTSGFpYUFkQTZVVnQzX1M1d9IBhgFBVV95cUxNbWZkREhaSjZucU5JSXpOUVd0OUpSTEF4WEJqc3VMSWp2TVE1Ql9sMTZqTS1PTEZva21EVDJlRHB1UndGYUVNNS05T1lSUndCMGNFcVpSZ3Yzb1VlMzJwc1hHakhJdlZlaUpkc05oRHp1T2JYVThTSGFpYUFkQTZVVnQzX1M1dw?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "CLARITY Act could get another shot during lame duck session,|Cointelegraph - \u062e\u0628\u0631\u067e\u0648",
+          "publisher": "\u062e\u0628\u0631\u067e\u0648",
+          "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxPYU9zQUFUcjVFQVZkQTVGUUVVNjBIV0k0cklSLXFnSEJtT3NkcGU5blY4d0tXMWRvRWVkcjlmS3RaNGVoOW1jb1JzdWxCZ2FDMDhhUUR0aFNjLU1oSHh1U0J4U2h0MVdhUUpQR1Y0S1lmdmRSNWl2SlIxQjNITWJRX1NYbFdCMXJyM1NObFBQWHZNSVkza3FEQUJJUVF2MHVqblJOalRGNElpNEIwM0ZmcE8zRDFOZmhZRjBhNkJkbmJFNWpneWFfMHpzMHNCaDBmV2x1RnNWYl9rS29nS1ZfSXhaOXVfUG5fdzZPWTUwdkNzVkQ0aHYzWnp4SFFudlRHb2dKMEgteGZKOUViYTBGREJLbHpYdnk4VHJ1WkswajBUbVg3SVpTems4RVpYYTBOc0QzY2RMY3dLSVlzZjNZUlhCUlI3M3BOdTRHeFZybGhHSGxyZ0lIV1M4WlJTVDh0dVoxeHN3cTV0Y2UxMl90c2tldmxwanZXbUxwZlJQQUowNHM5cFJpMEZ2N0hkS2haaXlNVTFwWFRkZEVQVEhtOHdHM0hHMDY5aTFraVlkQ3pVeFNlbkZSakEzVEpMZURYaHI5Q1lTUkhGX0xOV1Bfb1J0WEZhbW1CRGFLRThzOTV2ZTl3MHgwZ0R0ZEdtQnlFSlVWWkRRV1dxQUJfZXFBSjBMeG9lQUZIVFh3Q1p5WQ?oc=5"
+        }
+      ]
+    },
+    "slug": "senate-fails-to-advance-crypto-bill-do",
+    "kicker": "Google News World"
   },
   {
     "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca - Al Jazeera",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3hnUDMtSVdfWld4TnBza2xjVGdDSkp5djhtdWFBYkZWRElFN3BJZV9yODcycm9icVpFcVc1M0tvTGlsMEVTRVRxcnNjS244RDFlUzFFWkRpcDNaRkxnWnVqb2V3cFVKR1VabTJhemJtQzhoaFpzZExZQ3lrT1VGN1FuTUxqUXU1Z1dqSEZxSnZjeEl2Wnl1QmdR0gGfAUFVX3lxTE9GcXhlZlZqdDg0WE15WFM1dnJZSEVxTFd6ZmNwMFR4cDJ4bEFoMzV1d0FpUnJWWXpicXRaTF8ySU8tai1kS1Q5bC11Q3RVY1NNczNlRlA4WlJNTUhrd2d3c3FjLWJ5bHBZeE1CNFB0cnRrN0cwVlVnM3laRHVoa1hiOTIyR3lCbTRJT1c4dFN6QVJ5ZkxTSzBCbU04ZUx5SQ?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T02:02:57Z",
-    "summary": "This article titled 'Saudi-led coalition intercepts Houthi drone headed for Mecca - Al Jazeera' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?Saudi-led+coalition+intercepts+Houthi+drone+headed+for+Mecca+-+Al+Jazeera"
+    "summary": "Saudi-led coalition intercepts Houthi drone headed Mecca",
+    "image_url": "https://source.unsplash.com/featured/800x600?Saudi-led+coalition+intercepts+Houthi+drone+headed+for+Mecca+-+Al+Jazeera",
+    "thumbnail": "images/06-saudi-led-coalition-intercepts-houthi-stock.webp",
+    "image_credit": "Photo by Pixabay on Pexels",
+    "category": "World",
+    "report": {
+      "lede": "Saudi-Led Coalition Intercepts And Destroys Houthi Drone Near Mecca, Turki Al-Malki Says: 51 outlets compared \u2014 reported by NewsCord and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "NewsCord reported: \u201cSaudi-Led Coalition Intercepts And Destroys Houthi Drone Near Mecca, Turki Al-Malki Says: 51 outlets compared\u201d [6].",
+            "The Guardian framed the same development as: \u201cSaudi Arabia warns of \u2018red line\u2019 after Houthi drone intercepted close to holy city of Mecca\u201d [5].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "Al Jazeera: \u201cSaudi-led coalition intercepts Houthi drone headed for Mecca\u201d [1]",
+            "chinadailyasia.com: \u201cHouthis claim downing Saudi armed reconnaissance drone in Yemen's Marib\u201d [2]",
+            "BBC: \u201cSaudi Arabia says it shot down Houthi drone south of Mecca\u201d [3]",
+            "Daily Sabah: \u201cT\u00fcrkiye condemns Houthi drone attack targeting Mecca\u201d [4]",
+            "The Guardian: \u201cSaudi Arabia warns of \u2018red line\u2019 after Houthi drone intercepted close to holy city of Mecca\u201d [5]",
+            "NewsCord: \u201cSaudi-Led Coalition Intercepts And Destroys Houthi Drone Near Mecca, Turki Al-Malki Says: 51 outlets compared\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Saudi-led coalition intercepts Houthi drone headed for Mecca",
+          "publisher": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3hnUDMtSVdfWld4TnBza2xjVGdDSkp5djhtdWFBYkZWRElFN3BJZV9yODcycm9icVpFcVc1M0tvTGlsMEVTRVRxcnNjS244RDFlUzFFWkRpcDNaRkxnWnVqb2V3cFVKR1VabTJhemJtQzhoaFpzZExZQ3lrT1VGN1FuTUxqUXU1Z1dqSEZxSnZjeEl2Wnl1QmdR0gGfAUFVX3lxTE9GcXhlZlZqdDg0WE15WFM1dnJZSEVxTFd6ZmNwMFR4cDJ4bEFoMzV1d0FpUnJWWXpicXRaTF8ySU8tai1kS1Q5bC11Q3RVY1NNczNlRlA4WlJNTUhrd2d3c3FjLWJ5bHBZeE1CNFB0cnRrN0cwVlVnM3laRHVoa1hiOTIyR3lCbTRJT1c4dFN6QVJ5ZkxTSzBCbU04ZUx5SQ?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "Houthis claim downing Saudi armed reconnaissance drone in Yemen's Marib",
+          "publisher": "chinadailyasia.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5PRjRuaVRQc0pCWUFYb1JYRWh5Y1VNcTgyNDNaYm9obHZuLVlkSUlndFozd0t6bkJCRlh2c3h0Y3RQNFhoREVwelNVbFNBTTQ2SV9RdExFZ0c?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+          "publisher": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yOEdaeTY5RFU4dk5LR2FpVTBIZ0VpazdFYkVXaHJ4X3hzRHkzWWRrUTdHeXFfS0RZQ3hTN0J4VU92ZnJkQ3hkMGJCR3c2ZndhMms4OTdaNVJ3NzA?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "T\u00fcrkiye condemns Houthi drone attack targeting Mecca",
+          "publisher": "Daily Sabah",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUszTElFMlNSaERUbVdPQWp3S29OV0toRzlWYkMzNGJkczY0d1pCcTBzR2lPWVBMR2VhZHdvT2RiZDRyOFZhLXBwSkMta0I2aTFYRWY3WDVkRVZhWjRIMjZvQlFUSjZNMjdzd1VNcGNyc1AtR3hxdmpWVGE0UEFyMDhmdTFwaDc5THlzTDVfSHZick5VdkcwMVBJQUFXOGtsRGp1dQ?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "Saudi Arabia warns of \u2018red line\u2019 after Houthi drone intercepted close to holy city of Mecca",
+          "publisher": "The Guardian",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmZ1OWh2aUxOSFFBdTdUNVJRcWwzQlRaNGp6aGVqTEViX3AyeGxibFAzanZ0NUxJdm9HdG5CSXFGRjExTVZYTWZ5ZzVqT3JsNEV0aGNYNm9vRE9LNjdjVXZSY1N3Sk5jOWhIYXpzYWY1NVNCQnNiT1YwMEY1VVhtWWloMVVfZlNwNUZGaXRCRG9tN1pNNWhqOUVjaHZxZHE2VVgxRGlocw?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "Saudi-Led Coalition Intercepts And Destroys Houthi Drone Near Mecca, Turki Al-Malki Says: 51 outlets compared",
+          "publisher": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSndDSHRvOUI2cXdaYUk4Y25TcmRBcFliUnFYMDJPeWRKZzZjRHc1d0d1ejVvNjdud0ZZQ0JMVy0xR01UbDlDVDFZNzIxaWFJYWtwNnFnSkFSZ1RJOUt2NnUzTUZGOUxCb0hqUkN5czFOSklHaTBhX0U2eXpqdVo1MHNBTENBZGlYcm96UWx1aF9IQkFQVXdObk5tWDRPSldWVEgyRlR4Zkxyc0FMLTZibnNEN0pWZndmTG82UG4wdlF2ZGl2VFE?oc=5"
+        }
+      ]
+    },
+    "slug": "saudi-led-coalition-intercepts-houthi",
+    "kicker": "Google News World"
   },
   {
     "title": "The Boox Palma 3 gets stylus support and a sleek redesign - The Verge",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUFmYWRrNWNQc0NZNzVLbkFlREFFektOWG5GWDd4S0tielFTUHowTzI1YVgzR2dlWS1md3hEVFZqRktqbUh3d3JBT3Y2MUpfWTNhaW1ySTFNeXB1SFB1UGotdWh2eno4QmJSMlRHQWphUVJVeFNDaVlzbTctaExPbjV5TGo3RVlUVUpvWENBNDlfUmtabWc?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T02:00:00Z",
-    "summary": "This article titled 'The Boox Palma 3 gets stylus support and a sleek redesign - The Verge' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?The+Boox+Palma+3+gets+stylus+support+and+a+sleek+redesign+-+The+Verge"
+    "summary": "Boox Palma 3 gets stylus support sleek redesign",
+    "image_url": "https://source.unsplash.com/featured/800x600?The+Boox+Palma+3+gets+stylus+support+and+a+sleek+redesign+-+The+Verge",
+    "thumbnail": "images/07-the-boox-palma-3-gets-stylus-support-a-stock.webp",
+    "image_credit": "Photo by Andrey Matveev on Pexels",
+    "category": "Technology",
+    "report": {
+      "lede": "The Boox Palma 3 eReader now has pen support\u2014and it's not alone - How-To Geek \u2014 reported by How-To Geek and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "How-To Geek reported: \u201cThe Boox Palma 3 eReader now has pen support\u2014and it's not alone - How-To Geek\u201d [4].",
+            "androidpolice.com framed the same development as: \u201cThe Boox Palma 3 is the compact e-reader Android fans have been waiting for\u201d [6].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "The Verge: \u201cThe Boox Palma 3 gets stylus support and a sleek redesign\u201d [1]",
+            "CediRates: \u201cThe Boox Palma 3 gets stylus support and a sleek redesign\u201d [2]",
+            "engadget.com: \u201cThe New Boox Palma 3 Comes With Stylus Support And An Aluminum Build\u201d [3]",
+            "How-To Geek: \u201cThe Boox Palma 3 eReader now has pen support\u2014and it's not alone - How-To Geek\u201d [4]",
+            "finance.biggo.com: \u201cBoox Palma 3 Swaps Plastic for Aluminum, Adds Stylus Support at $340\u201d [5]",
+            "androidpolice.com: \u201cThe Boox Palma 3 is the compact e-reader Android fans have been waiting for\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+          "publisher": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUFmYWRrNWNQc0NZNzVLbkFlREFFektOWG5GWDd4S0tielFTUHowTzI1YVgzR2dlWS1md3hEVFZqRktqbUh3d3JBT3Y2MUpfWTNhaW1ySTFNeXB1SFB1UGotdWh2eno4QmJSMlRHQWphUVJVeFNDaVlzbTctaExPbjV5TGo3RVlUVUpvWENBNDlfUmtabWc?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+          "publisher": "CediRates",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUWhfN2loMjY5MmFzNS02T1YzbnhoMUpVU096Mk5wVjNMaF90Q3Z4OWFVNk9oV19jNXlPRmlIX2VYYS0tMWFLMk9SVzV5cXJTRV9qU3dSZVJfaWFhSktrMEU2bjJGaEU5MkdjQWN0bnBNQTZxbXpVdHdMX1hmUlVWVWJpTWRXYjdKM1hncg?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "The New Boox Palma 3 Comes With Stylus Support And An Aluminum Build",
+          "publisher": "engadget.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95VXBZblFQRXY4OTRJUVAyUzItQ1VRamx2aFFNcmFTR2gzTXdXSEgweHFGcDRFNnIwekZRRm5MWVlnSHQ1azZtd0JISnNqeXR2V3FqOUQ5V0V3aXUzNFhSUlJRNGttcTV3ZWVMaWV6dFdKU1U?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "The Boox Palma 3 eReader now has pen support\u2014and it's not alone - How-To Geek",
+          "publisher": "How-To Geek",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rWmZVY1BhSkJRbHBfUE9QbXdKa25SZFVXQkZYUEtCUmZ6MlhJam5kSEU0aG93ZzBVd2xyRkF0RnN6VjJfOUpRcExPbkRrTFVYVHA2cnl3QjdVdVdEQ09EZEI4a295d1g3NUJJLTQ1WFBOWFRzSFJQY0dR?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "Boox Palma 3 Swaps Plastic for Aluminum, Adds Stylus Support at $340",
+          "publisher": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yd3l2Zi1HQV8wMW9hNXpNbGV2Nm90SzVBTm5QdnV2TG4xV0tfckpiRU5Celo5eHFBVml1OV91bThQdUx4ekJJM1ZUMFp1dFNEMXVjZlphVEdKcktoVG9fbms5ZzMzYWFza0RCOXZqbHRtM0tOY1E?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "The Boox Palma 3 is the compact e-reader Android fans have been waiting for",
+          "publisher": "androidpolice.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0FiU2VYSjAwQW9LMTF1aVBxeGhybDhZM195d25hdFo0UmJKWkRFejF3VDhIblRYelBhNS1vWm50Sm5UYUhNbkJTYmdMc050WkNjSGxnRnczUFExQWFzZUN2T1oyQzlyeG9rZVVyaUwwZHBIbDhUTEVVejlpZHJMVnpWLWE0M0x3Z0VV?oc=5"
+        }
+      ]
+    },
+    "slug": "the-boox-palma-3-gets-stylus-support-a",
+    "kicker": "Google News World"
   },
   {
     "title": "Canon EOS R8 Mark II Announced: Our thoughts and reaction - Canon Rumors",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fOGV1REFZVDlKRDdzV1Q1b25XbWZBU3EzYmpNU2NSUG9TQzV2Rk4wMzFaa0Vmc1BQeHdQLXl3WHp1dXRVNWxuYURCb1c5STB1Umx6SU5SamVraThFNHdKYjE2cUVHUHE4akJsMlB0cmhhQUJlVEZ6cGpUdVlhZGM?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T01:04:00Z",
-    "summary": "This article titled 'Canon EOS R8 Mark II Announced: Our thoughts and reaction - Canon Rumors' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?Canon+EOS+R8+Mark+II+Announced%3A+Our+thoughts+and+reaction+-+Canon+Rumors"
+    "summary": "Canon EOS R8 Mark II Announced: Our thoughts reaction",
+    "image_url": "https://source.unsplash.com/featured/800x600?Canon+EOS+R8+Mark+II+Announced%3A+Our+thoughts+and+reaction+-+Canon+Rumors",
+    "thumbnail": "images/08-canon-eos-r8-mark-ii-announced-our-tho-stock.webp",
+    "image_credit": "Photo by Andrew Harris on Pexels",
+    "category": "Technology",
+    "report": {
+      "lede": "Fujifilm\u2019s New Cinema Announcement Is a Gimmick. And That\u2019s the Point \u2014 reported by Y.M.Cinema Magazine and 5 other outlets.",
+      "sections": [
+        {
+          "h": "What happened",
+          "ps": [
+            "Y.M.Cinema Magazine reported: \u201cFujifilm\u2019s New Cinema Announcement Is a Gimmick. And That\u2019s the Point\u201d [5].",
+            "Canon Rumors framed the same development as: \u201cCanon EOS R8 Mark II Announced: Our thoughts and reaction\u201d [1].",
+            "6 distinct outlets were tracked covering this story today."
+          ]
+        },
+        {
+          "h": "How outlets are reporting it",
+          "ps": [
+            "Canon Rumors: \u201cCanon EOS R8 Mark II Announced: Our thoughts and reaction\u201d [1]",
+            "Tech My Money: \u201cCanon EOS R8 Mark II Adds IBIS and Classic Camera Style\u201d [2]",
+            "TechRadar: \u201cCanon EOS R8 Mark II review\u201d [3]",
+            "Camera Jabber: \u201cCanon EOS R8 Mark II vs EOS R8: should you upgrade?\u201d [4]",
+            "Y.M.Cinema Magazine: \u201cFujifilm\u2019s New Cinema Announcement Is a Gimmick. And That\u2019s the Point\u201d [5]",
+            "The Verge: \u201cI played with the Lego Smart Brick\u201d [6]"
+          ]
+        },
+        {
+          "h": "Background and context",
+          "ps": [
+            "This brief aggregates 6 independent publishers covering the same event; each headline in the section above reflects that outlet\u2019s own framing. Full original reporting is linked in the sources panel below."
+          ]
+        },
+        {
+          "h": "Why it matters and what to watch",
+          "ps": [
+            "Sustained coverage across 6 outlets signals this story is developing and likely to move.",
+            "For the latest figures, official statements and corrections, follow the linked originals."
+          ]
+        }
+      ],
+      "takeaways": [],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Canon EOS R8 Mark II Announced: Our thoughts and reaction",
+          "publisher": "Canon Rumors",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fOGV1REFZVDlKRDdzV1Q1b25XbWZBU3EzYmpNU2NSUG9TQzV2Rk4wMzFaa0Vmc1BQeHdQLXl3WHp1dXRVNWxuYURCb1c5STB1Umx6SU5SamVraThFNHdKYjE2cUVHUHE4akJsMlB0cmhhQUJlVEZ6cGpUdVlhZGM?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "Canon EOS R8 Mark II Adds IBIS and Classic Camera Style",
+          "publisher": "Tech My Money",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1lMTGtySzBJOVEtaXpyQjg3LVBBWnBXU2xuN2VZQ2U3MzVaemF4N3Fvem8yallZSGk1dWh1cjQ2QnVJXzNhNWRQVnBYc05TTWJlRDc1SzFZcW1RS2N1UmtaYzRHa2lOSVJ6RHgyZ0c2ZHUtRVhQNk5udTRWd2p2WS1Pam1MdUdNVFZTT2x3WmFGRnloMGfSAZYBQVVfeXFMT2dZTExrckswSTlRLWl6ckI4Ny1QQVpwV1NsbjdlWUNlNzM1WnpheDdxb3pvMmpZWUhpNXVodXI0NkJ1SV8zYTVkUFZwWHNOU01iZUQ3NUsxWXFtUUtjdVJrWmM0R2tpTklSekR4MmdHNmR1LUVYUDZObnU0VndqdlktT2ptTHVHTVRWU09sd1phRkZ5aDBn?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "Canon EOS R8 Mark II review",
+          "publisher": "TechRadar",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcjk0eElMWmVZLTZKR1hUeHNOdXlqd3d0NlhldHAwZEp5NW9xUnFveW5WYXZiYTJOaXV3OE9XZ1hDZWs2Q3lsN192MXVVZk5CSk9TX1FuOXgwY2lpQjd2MFNnOTVIRmdmR3l3WE9OeXAyQm1jUmpESDlIUmMtaENDSDZVWjZxTUk?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "Canon EOS R8 Mark II vs EOS R8: should you upgrade?",
+          "publisher": "Camera Jabber",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1VhLS1NbGNJNW9NM3djYUlnQjVqa0NoSlRuQ19DQUNoVnlzYS0tRThmZFk0M0xfY1pwR1U0VHpxM2NBWFBkaUtEY0xNR0Fwc0lzZkM5dHAwb1M2UTlhTVQ3d0dBQTRTbzZyNUhjdkhRWXpkNUxPNkVTYjNTY0xJWjA5cjkza3I4Y054VldBUHk2NnJZajRV?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "Fujifilm\u2019s New Cinema Announcement Is a Gimmick. And That\u2019s the Point",
+          "publisher": "Y.M.Cinema Magazine",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ReFc1LTE1T3JBZ2RZWkNvX1gxWmR3SHd1Ym56TURVZ1JpeTFTdDRCenBoS3UxRFQyLVdyd2o0R3A4UzZDTFNhVVMwXzJDa1J4eHNXakZuTXYxUS1XQjFReWhZTS1PTXNNWkh0MVVwUzVFdw?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "I played with the Lego Smart Brick",
+          "publisher": "The Verge",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93V3c2Mk8yQXh3WGdSb3p5YW5CbHpfNkRyT1I1S2dSRndOM2xCbXY2cWRzSjVrUk42S2dQMlU3ZTBhTFhyQVBvUDctR0lURk8xMlRGSFoxOVp5WjB2SUZBSDloZV9RYkdRMGM5cWJlcU1TS2NPUGlLeXpVWQ?oc=5"
+        }
+      ]
+    },
+    "slug": "canon-eos-r8-mark-ii-announced-our-tho",
+    "kicker": "Google News World"
   },
   {
     "title": "Republican lawmaker moves to force vote on impeaching Hegseth - The Washington Post",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWZ1ejN0VXlyTzM1SDltX2JGUDlrMl9IT0VLUHhIT3RtZTNXWTRHY0NBeFhXVTBKb2YtUWFmVEhnUHBfWWR3cHhKWER5TnpzTkpTXzV5anNXUlJpZGJjWk1NNldhWmJSdlRZNHhYaUpLVkpDMDl0QUVfTzhMUTlEOGVsbl9VdmhvT2JfOXVqZnhvSnF6VWpjd0FXejZFamhtbEFBaW52Q0pNYWc?oc=5",
     "source": "Google News World",
     "published_at": "2026-09-16T00:40:17Z",
-    "summary": "This article titled 'Republican lawmaker moves to force vote on impeaching Hegseth - The Washington Post' reports recent developments in its respective field. It provides key insights and implications for readers.",
-    "image_url": "https://source.unsplash.com/featured/800x600?Republican+lawmaker+moves+to+force+vote+on+impeaching+Hegseth+-+The+Washington+Post"
+    "summary": "Republican lawmaker moves force vote impeaching Hegseth",
+    "image_url": "https://source.unsplash.com/featured/800x600?Republican+lawmaker+moves+to+force+vote+on+impeaching+Hegseth+-+The+Washington+Post",
+    "thumbnail": "images/09-republican-lawmaker-moves-to-force-vot-stock.webp",
+    "image_credit": "Photo by Markus Winkler on Pexels",
+    "category": "Politics",
+    "report": {
+      "lede": "",
+      "sections": [
+        {
+          "h": "': 'What happened', 'Background and context', 'How outlets are reporting it', 'Why it matters and what to watch'",
+          "ps": [
+            "- **Paragraphs:** 3-4 paragraphs per section - **Output:** ONLY the report itself, no reasoning",
+            "2. **Analyze the Sources:** I need to carefully read the source descriptions. The prompt gives me the source titles/names, but not the actual text content. I have to work with what's implied or typically contained in such articles, but the prompt says \"Using ONLY the source excerpts below\". Wait, the excerpts aren't actually provided in full text - only the source titles are given. Let me re-read carefully.",
+            "The user says: \"Using ONLY the source excerpts below, write an in-depth, factual news report about: ...\" then lists: [1] (The Washington Post) Republican lawmaker moves to force vote on impeaching Hegseth :: [2] (Time Magazine) Republican Congressman Introduces Articles of Impeachment Against Defense Secretary Pete Hegseth :: [3] (NPR) Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war :: [4] (Law Commentary) Republican Thomas Massie Forces House Vote to Impeach Pete Hegseth Over Iran War :: [5] (Axios) Massie moves to impeach Pete Hegseth over Iran War :: [6] (CNBC) Republican Rep. Massie seeks Hegseth's impeachment over Iran ::",
+            "These aren't full text excerpts; they're just source titles/identifiers. But the prompt says \"Using ONLY the source excerpts below\". This is tricky. I need to infer the content from the titles, but the prompt also says \"Every factual sentence must be traceable to an excerpt; if sources conflict, say so.\" and \"Attribute claims to sources with bracketed citations like [1], [2].\"",
+            "I think the intent is that I should treat these source titles as the authoritative references, and I can describe the events based on what these outlets typically report, but I must cite them. However, since I don't have the actual text, I need to be very careful. Perhaps the titles themselves contain the facts I need to reference. Let me parse the likely content from each:",
+            "[1] Washington Post: \"Republican lawmaker moves to force vote on impeaching Hegseth\" - this is likely the main action. [2] Time Magazine: \"Republican Congressman Introduces Articles of Impeachment Against Defense Secretary Pete Hegseth\" - introduces articles. [3] NPR: \"Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war\" - Massie, Iran war reason. [4] Law Commentary: \"Republican Thomas Massie Forces House Vote to Impeach Pete Hegseth Over Iran War\" - Massie forces vote. [5] Axios: \"Massie moves to impeach Pete Hegseth over Iran War\" - similar. [6] CNBC: \"Republican Rep. Massie seeks Hegseth's impeachment over Iran\" - seeks impeachment over Iran.",
+            "Key elements consistently: Republican lawmaker (Thomas Massie), target (Pete Hegseth, Defense Secretary), reason (Iran war), action (move to force vote, introduce articles of impeachment).",
+            "I need to write a news report that attributes facts to these sources. Since the sources are consistent in naming Massie, Hegseth, and the Iran reason, I'll build the report around that, citing each source when relevant. I must avoid inventing facts not supported by the source descriptions. I'll treat the source titles as the excerpts, and cite them accordingly.",
+            "The report must have: - 1-2 sentence lede paragraph (no title line) - Then four sections with headings `## What happened`, `## Background and context`, `## How outlets are reporting it`, `## Why it matters and what to watch` - 3-4 paragraphs per section - 1000 words total - Neutral, encyclopedic tone - Bracketed citations - No speculation, no hype",
+            "Let outline the structure:",
+            "**Lede paragraph:** 1-2 sentences summarizing the development."
+          ]
+        },
+        {
+          "h": "Section 1: What happened",
+          "ps": [
+            "- 3-4 paragraphs detailing the event: Massie's move, the vote, the articles, etc. Draw from [1], [2], [3], [4], [5], [6]."
+          ]
+        },
+        {
+          "h": "Section 2: Background and context",
+          "ps": [
+            "- 3-4 paragraphs: Who Hegseth is, who Massie is, the Iran context, impeachment history/precedents, congressional dynamics. I'll need to infer reasonable background from the names and typical knowledge, but must tie to sources. Since the sources don't provide deep background, I'll have to be generic but cite when stating specific facts from them. Actually, the prompt says \"Using ONLY the source excerpts below\" and \"Every factual sentence must be traceable to an excerpt\". This is very strict. If I state something not in the excerpts, I need to cite it, but the excerpts are just titles. I think I need to interpret the titles as the excerpts themselves"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Republican lawmaker moves to force vote on impeaching Hegseth",
+          "publisher": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWZ1ejN0VXlyTzM1SDltX2JGUDlrMl9IT0VLUHhIT3RtZTNXWTRHY0NBeFhXVTBKb2YtUWFmVEhnUHBfWWR3cHhKWER5TnpzTkpTXzV5anNXUlJpZGJjWk1NNldhWmJSdlRZNHhYaUpLVkpDMDl0QUVfTzhMUTlEOGVsbl9VdmhvT2JfOXVqZnhvSnF6VWpjd0FXejZFamhtbEFBaW52Q0pNYWc?oc=5"
+        },
+        {
+          "n": 2,
+          "title": "Republican Congressman Introduces Articles of Impeachment Against Defense Secretary Pete Hegseth",
+          "publisher": "Time Magazine",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Qcjc2cEZQMmI2ZFVrOWNkVmNpTVNQSl9CNEtpSWhDSFZPYWdIR3lCZDlaNVJFekhDR3F3SDFnem55cTMyOU0tZDRfa2FVckV2WXVTVjFackYwM3B5NXM4SGpWZVBzbERBU1dnUnVsUEhYZFpGSGE0?oc=5"
+        },
+        {
+          "n": 3,
+          "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war",
+          "publisher": "NPR",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzeHV1VUx0NUc0WWZGQ1NLZ1BTWU40R0pWdTdBWWRDelF0Tjd1T09sZFZUS05fR2U5QWdoMDNOSzJzUzhIYThIUG5wNkhYMFBNVWVGVzNXYm5yOW1VTFB6V2ltWWVKSXVaMXlvUGZvWWVHVGplNWRSRm5n?oc=5"
+        },
+        {
+          "n": 4,
+          "title": "Republican Thomas Massie Forces House Vote to Impeach Pete Hegseth Over Iran War",
+          "publisher": "Law Commentary",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYVJDTEFTV0NheHRkVkV5TDFkQnFYekFqM0JwdkFxYm41T01PM3otQndnVllITjY4ME81Wko5R21oX0FGYnhRUE03UzlBT1d3SFQtdXNJaHI2Skk3WGM0LTZSNWVYYWEzMWNmcHZmMDA5NV9ZMnF1RUc4blMtd1JJbFM2Q1hoYzZ5ZGJzVlgwbw?oc=5"
+        },
+        {
+          "n": 5,
+          "title": "Massie moves to impeach Pete Hegseth over Iran War",
+          "publisher": "Axios",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hRDJDVXlvS2I2Ukg2MlVCcWtDSjFOWktLWkhyQVNJeGU0UF9sM1ZUVHJEZk5aSHRPTkV2UDJGQkVnV0ExLXY4MmpVUzN6WU8tVTFrT2xYSHFzREp4R0MwVm54Ym1zZ2drcDQ4c2NleXJOZE5BOXhDUA?oc=5"
+        },
+        {
+          "n": 6,
+          "title": "Republican Rep. Massie seeks Hegseth's impeachment over Iran",
+          "publisher": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcm1KX1FUcTlrOFloMmVwUGJjOExjTnFpai1zemZycVJ5WngyaDFWaHE5YXA0WFFpb2p1Q2wwNWNWTGxxMGRUcEtDa1Q0UjVUQzJuY3VKOFVMYV8ybHNWNXZRWEtQWENlb3hvTFd0bEdRS2lSSkhRRW9yQVhRRmpVNGM1c3BFRXRPT01ab0ZKSE5WTTB6b0syNGVRWdIBoAFBVV95cUxNZDQ5WTlFRGpncGZ1dGh5Z1JiQ3l3UHpWeU1GZU9neFcwVFJnWDRxemZ0b2EwN0ZZazJPVThIOUpvemlsWF9OUmtTTFlhMTVtREhxc3pWUzlFNG1ucnNybnp0MGUzRnNZWTR5eWdpNlFRVzVweTFYNndUV3FwamF3NC1DZHVnRDlzOGdtN3JnUUZBOS01OUtoMmVzUnZ1OG5R?oc=5"
+        }
+      ]
+    },
+    "slug": "republican-lawmaker-moves-to-force-vot",
+    "kicker": "Google News World"
   }
 ]

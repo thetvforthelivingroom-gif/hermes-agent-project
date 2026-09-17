@@ -120,6 +120,65 @@ def wiki_image(title):
             pass
     return None
 
+def api_keys():
+    """Stock-photo API keys, from env first, then hermes config.yaml."""
+    pexels = os.environ.get('PEXELS', '')
+    unsplash = os.environ.get('UNSPLASH_ACCESS', '')
+    if pexels and unsplash:
+        return pexels, unsplash
+    cfg = os.path.expanduser('~/.hermes/config.yaml')
+    try:
+        with open(cfg) as f:
+            for line in f:
+                line = line.strip()
+                if line.startswith('PEXELS:') and not pexels:
+                    pexels = line.split(':', 1)[1].strip()
+                elif line.startswith('UNSPLASH_ACCESS:') and not unsplash:
+                    unsplash = line.split(':', 1)[1].strip()
+    except Exception:
+        pass
+    return pexels, unsplash
+
+def stock_image(title):
+    """Best-fit stock photo (Pexels -> Unsplash) for a story title. Returns (url, credit) or (None, '')."""
+    pexels_key, unsplash_key = api_keys()
+    stop = set('a an the on in of for and or to with by from at top before after as its these those'.split())
+    words = [w for w in re.sub(r'[^A-Za-z]+', ' ', title.lower()).split() if w not in stop and len(w) > 3]
+    query = ' '.join(words[:4]) or title
+    try:
+        req = urllib.request.Request(
+            'https://api.pexels.com/v1/search?query=%s&per_page=3&orientation=landscape' % urllib.parse.quote(query),
+            headers={'Authorization': pexels_key, 'Accept': '*/*', 'User-Agent': UA})
+        with urllib.request.urlopen(req, timeout=12) as r:
+            d = json.loads(r.read().decode('utf-8'))
+        photos = d.get('photos') or []
+        if photos:
+            p = photos[0]
+            src = ((p.get('src') or {}).get('large2x')
+                   or (p.get('src') or {}).get('large')
+                   or (p.get('src') or {}).get('original'))
+            if src:
+                return src, 'Photo by %s on Pexels' % (p.get('photographer') or 'Pexels')
+    except Exception:
+        pass
+    try:
+        req = urllib.request.Request(
+            'https://api.unsplash.com/search/photos?query=%s&per_page=3&orientation=landscape' % urllib.parse.quote(query),
+            headers={'Authorization': 'Client-ID ' + unsplash_key, 'Accept': '*/*', 'User-Agent': UA})
+        with urllib.request.urlopen(req, timeout=12) as r:
+            d = json.loads(r.read().decode('utf-8'))
+        results = d.get('results') or []
+        if results:
+            res = results[0]
+            src = ((res.get('urls') or {}).get('regular')
+                   or (res.get('urls') or {}).get('raw'))
+            if src:
+                user = ((res.get('user') or {}).get('name')) or 'Unsplash'
+                return src, 'Photo by %s on Unsplash' % user
+    except Exception:
+        pass
+    return None, ''
+
 def save_image(data, stem):
     if b'<svg' in data[:400].lower():
         rel = 'images/%s.svg' % stem
@@ -166,6 +225,16 @@ def process(i, story):
             rel = save_image(fetch(wimg), stem + '-wiki')
             if rel:
                 return i, rel, 'Wikimedia Commons', cat, 'wiki'
+        except Exception:
+            pass
+    
+    # Fallback to a relevant stock photo (Pexels/Unsplash) with photographer credit
+    surl, scredit = stock_image(title)
+    if surl:
+        try:
+            rel = save_image(fetch(surl, timeout=20), stem + '-stock')
+            if rel:
+                return i, rel, scredit, cat, 'stock'
         except Exception:
             pass
     
